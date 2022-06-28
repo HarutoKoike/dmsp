@@ -18,6 +18,6 @@ IF ~STRMATCH(path, '*/') THEN $
 .r dmsp::load_ssm
 .r dmsp::itemize
 .r dmsp::tplotvar
-.r dmsp_load2
+.r dmsp_load
 
  
